@@ -1,7 +1,7 @@
 ;;; yeis.el --- Yeis's Emacs' Input Switcher  -*- lexical-binding: t; -*-
 
 ;; Copyright © 2020, 2021, 2022 André A. Gomes <andremegafone@gmail.com>
-
+;; Package-Requires: (s)
 ;; Version: 0.0.1
 ;; URL: https://github.com/aadcg/emacs-yeis
 
